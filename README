@@ -1,0 +1,328 @@
+NAME
+    WWW::Azantek - class to assist in interacting with Azantek admin
+    interface
+
+VERSION
+    This documentation describes version 0.05
+
+SYNOPSIS
+    The module lets the user interact with Azanteks administrative web
+    interface. This can be used for automating tasks of processing data
+    exports etc.
+
+        use WWW::Azantek;
+
+        #All mandatory parameters
+        #Please note Azantek can be configured to use authorization on IP
+        #meaning authentication is unnessesary
+        my $wd = WWW::Azantek->new({
+            url => 'http://www.billigespil.dk/admin/edbpriser-export.asp',
+        });
+
+        #With optional authentication credentials
+        my $wd = WWW::Azantek->new({
+            username => 'topshop',
+            password => 'topsecret',
+            url => 'http://www.billigespil.dk/admin/edbpriser-export.asp',
+        });
+
+        #with verbosity enabled
+        my $wd = WWW::Azantek->new({
+            username => 'topshop',
+            password => 'topsecret',
+            url      => 'http://www.billigespil.dk/admin/edbpriser-export.asp',
+            verbose  => 1,
+        });
+
+        #With caching
+        my $wd = WWW::Azantek->new({
+            username => 'topshop',
+            password => 'topsecret',
+            url      => 'http://www.billigespil.dk/admin/edbpriser-export.asp',
+            cache    => 1,
+        });
+
+        #With custom WWW::Mechanize object
+        use WWW::Mechanize;
+
+        my $mech = WWW::Mechanize->new(agent => 'MEGAnice bot');
+
+        my $wd = WWW::Azantek->new({
+            username => 'topshop',
+            password => 'topsecret',
+            url      => 'http://www.billigespil.dk/admin/edbpriser-export.asp',
+            mech     => $mech,
+        });
+    
+        #The intended use
+        package My::WWW::Azantek::Subclass;
+    
+        sub processor {
+            my ( $self, $content ) = @_;
+        
+            #Note the lines terminations are Windows CRLF
+            my @lines = split /\r\n/, $$content;
+        
+            ...
+        
+            }
+        }
+    
+        #Using your new class
+        my $my = My::WWW::Azantek::Subclass->new({
+            username => 'topshop',
+            password => 'topsecret',
+            url      => 'http://www.billigespil.dk/admin/edbpriser-export.asp',
+        });
+    
+        my $content = $my->retrieve();
+    
+        print $$content;
+
+        #Using a processor implemented as a code reference
+        $wd = WWW::Azantek->new({
+            username  => 'topshop',
+            password  => 'topsecret',
+            url       => 'http://www.billigespil.dk/admin/edbpriser-export.asp',
+            processor => sub {                
+                ${$_[0]} =~ s/test/fest/;        
+                return $_[0];
+            },
+        });    
+
+        #Implementing a processor class
+        my $processor = MY::Processor->new();
+    
+        UNIVERSAL::can($processor, 'process');
+    
+        $wd = WWW::Azantek->new({
+            username  => 'topshop',
+            password  => 'topsecret',
+            url       => 'http://www.billigespil.dk/admin/edbpriser-export.asp',
+            processor => $processor,
+        });
+    
+        my $content = $wd->retrieve();
+    
+        print ${$content};
+
+DESCRIPTION
+    This module is a simple wrapper around WWW::Mechanize it assists the
+    user in getting going with automating tasks related to the Azantek
+    administrative web interface.
+
+    Such as:
+
+    * manipulating data exports (removing, adjusting, calculating, adding
+    columns)
+    * filling in missing data (combining data)
+    * converting formats (from CSV to XML, JSON, CSV, whatever)
+
+METHODS
+  new
+    This is the constructor.
+
+    The constructor takes a hash reference as input. The hash reference
+    should contain keys according to the following conventions:
+
+    * username, optional username credential to access Azantek
+    * password, optional password credential to access Azantek
+    * url, the mandatory URL to retrieve data from (retrieve)
+    * mech, a WWW::Mechanize object if you have a pre instantiated object or
+    some other object implementing the the same API as WWW::Mechanize.
+        The parameter is optional.
+
+        See also cache parameter below for an example.
+
+    * verbose, a flag for indicating verbosity, default is 0 (disabled), the
+    parameter is optional
+    * cache, usage of a cache meaning that we internally use
+    WWW::Mechanize::Cached instead of WWW::Mechanize.
+        The parameter is optional
+
+    * processor
+        This parameter can be used of you do not want to implement a
+        subclass of WWW::Azantek.
+
+        The processor parameter can either be:
+
+        * an object implementing a proces method, with the following
+        profile:
+                proces(\$content);
+
+        * a code reference with the same profile, adhering to the following
+        example:
+                sub { return ${$_[0]} };
+
+  retrieve
+    Parameters:
+
+    * a hash reference, the reference can be populated with statistic
+    information based on the lineprocessing (processor) initiated from
+    retrieve.
+
+    The method returns a scalar reference to a string containing the content
+    retrieved from the URL provided to the contructor (new). If the
+    processor method is overwritten you can manipulate the content prior to
+    being returned.
+
+  process
+    Takes the content retrieved (see: retrieve) from the URL parameter
+    provided to the constructor (see: new). You can overwrite the behaviour
+    via the constructor (see: new).
+
+    Parameters:
+
+    * a scalar reference to a string to be processed line by line
+
+    The stub does however not do anything, but it returns the scalar
+    reference *untouched*.
+
+  processor
+    This is a wrapper for process, provided for backwards compatibility.
+
+DIAGNOSTICS
+    * Unable to authenticate, username and password not valid credentials
+    * Both username and password is required for authentication
+        If you want to use authentication you have to provide both username
+        and password.
+
+    * Unable to retrieve base URL: $@
+        The base URL provided to retrieve gives an error.
+
+        Please see: http://search.cpan.org/perldoc?HTTP%3A%3AResponse or
+        http://search.cpan.org/~gaas/libwww-perl/lib/HTTP/Status.pm
+
+        Test the URL in your browser to investigate.
+
+    * Unable to retrieve URL: $@
+        The base URL provided to retrieve gives an error.
+
+        Please see: http://search.cpan.org/perldoc?HTTP%3A%3AResponse or
+        http://search.cpan.org/~gaas/libwww-perl/lib/HTTP/Status.pm
+
+        Test the URL in your browser to investigate.
+
+CONFIGURATION AND ENVIRONMENT
+    The module requires Internet access to make sense and an account with
+    Azantek with username and password is required.
+
+DEPENDENCIES
+    * WWW::Mechanize
+    * Carp
+
+TEST AND QUALITY
+    The tests are based on Test::MockObject::Extends and example data are
+    mocked dummy data. Please see the TODO section.
+
+    The test suite uses the following environment variables as flags:
+
+    TEST_AUTHOR, to test prerequisites, using Test::Prereq
+    TEST_CRITIC, to do a static analysis of the code, using Perl::Critic,
+    see also QUALITY AND CODING STANDARD
+
+  TEST COVERAGE
+    The following data are based on an analysis created using Devel::Cover
+    and the distributions own test suite, instantiated the following way.
+
+        % ./Build testcover --verbose
+
+    ---------------------------- ------ ------ ------ ------ ------ ------
+    ------ File stmt bran cond sub pod time total
+    ---------------------------- ------ ------ ------ ------ ------ ------
+    ------ blib/lib/WWW/Azantek.pm 100.0 100.0 100.0 100.0 100.0 100.0
+    100.0 Total 100.0 100.0 100.0 100.0 100.0 100.0 100.0
+    ---------------------------- ------ ------ ------ ------ ------ ------
+    ------
+
+    Please note the report is based on version 0.03 of WWW::Azantek
+
+QUALITY AND CODING STANDARD
+    The code passes Perl::Critic tests a severity: 1 (brutal)
+
+    The following policies have been disabled:
+
+    Perl::Critic::Policy::InputOutput::RequireBracedFileHandleWithPrint
+
+    Perl::Critic resource file, can be located in the t/ directory of the
+    distribution t/perlcriticrc
+
+    Perl::Tidy resource file, can be obtained from the original author
+
+BUGS AND LIMITATIONS
+    No known bugs at this time.
+
+BUG REPORTING
+    Please report any bugs or feature requests via:
+
+    * email: `bug-www-dandomain at rt.cpan.org'
+    * HTTP: http://rt.cpan.org/NoAuth/ReportBug.html?Queue=WWW-Azantek
+
+DEVELOPMENT
+    * Subversion repository: http://logicLAB.jira.com/svn/DAND
+
+TODO
+    * Most of the work is done in the classes inheriting from this class,
+    there could however be work to do in the maintenance area, making this
+    class more informative if failing
+    * I would like to add some integration test scripts so I can see that
+    the package works with real data apart from the mock.
+
+SEE ALSO
+    * http://www.dandomain.dk
+
+SUPPORT
+    You can find documentation for this module with the perldoc command.
+
+        perldoc WWW::Azantek
+
+    You can also look for information at:
+
+    * Official Wiki
+        http://logiclab.jira.com/wiki/display/DAND/Home+-+WWW-Azantek
+
+    * AnnoCPAN: Annotated CPAN documentation
+        http://annocpan.org/dist/WWW-Azantek
+
+    * CPAN Ratings
+        http://cpanratings.perl.org/d/WWW-Azantek
+
+    * RT: CPAN's request tracker
+        http://rt.cpan.org/NoAuth/Bugs.html?Dist=WWW-Azantek
+
+    * Search CPAN
+        http://search.cpan.org/dist/WWW-Azantek
+
+AUTHOR
+    * pdam, `<pdam at cpan.org>'
+
+MOTIVATION
+    This module grew out of a small script using WWW::Mechanize to fetch
+    some data from a website and changing it to satisfy the client utilizing
+    the data.
+
+    More a more scripts where based on the original script giving a lot of
+    redundant code. Finally I refactored the lot to use some common code
+    base.
+
+    After some time I refactored to an object oriented structure making it
+    even easier to maintain and adding more clients. This made the actual
+    connectivity into a package (this package) letting it loose as open
+    source.
+
+ACKNOWLEDGEMENTS
+    * Andy Lester (petdance) the author of WWW::Mechanize and
+    WWW::Mechanize:Cached, this module makes easy things easy and hard
+    things possible.
+    * Steen Schnack, who understand the power and flexibility of computer
+    programming and custom solutions and who gave me the assignment.
+    * Slaven Rezic, for his CPAN testers work and assistance in pointing out
+    an issue with release 0.03
+
+LICENSE AND COPYRIGHT
+    Copyright 2009-2010 pdam, all rights reserved.
+
+    This program is free software; you can redistribute it and/or modify it
+    under the same terms as Perl itself.
+
+

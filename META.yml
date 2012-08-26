@@ -1,0 +1,35 @@
+---
+abstract: WWW::Azantek
+author:
+  - 'Prtik Dam <pdam@gmail.com>'
+build_requires:
+  Env: 0
+  File::Slurp: 0
+  Test::Exception: 0
+  Test::MockObject::Extends: 0
+  Test::More: 0
+  Test::Perl::Critic: 0
+  Test::Prereq::Build: 0
+dynamic_config: 0
+generated_by: 'Module::Build version 0.4003, CPAN::Meta::Converter version 2.113640'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: WWW-Azantek
+provides:
+  WWW::Azantek:
+    file: lib/WWW/Azantek.pm
+    version: 0.01
+requires:
+  Carp: 0
+  Data::Dumper: 0
+  Module::Build: 0.30
+  WWW::Mechanize: 0
+  WWW::Mechanize::Cached: 0
+resources:
+  bugtracker: http://Azantek.atlassian.net
+  homepage: http://www.azantek.com
+  license: http://dev.perl.org/licenses/
+  repository: http://github.com/pdam/Test-WWW-Azantek
+version: 0.01

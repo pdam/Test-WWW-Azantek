@@ -1,0 +1,14 @@
+Build.pl
+lib/WWW/Azantek.pm
+lib/WWW/Azantek/Hours.pm
+lib/WWW/Azantek/Places.pm
+lib/WWW/Azantek/Diary.pm
+lib/WWW/Azantek/Reports.pm
+lib/WWW/Azantek/Helpers.pm
+lib/WWW/Azantek/Cars.pm
+Makefile.PL
+MANIFEST			This list of files
+META.json
+META.yml
+README
+t/retrieve.t
