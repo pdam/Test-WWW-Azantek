@@ -1,0 +1,193 @@
+127!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+32!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+90!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+71!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+118!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+102!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+18!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+125!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+16!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+44!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+55!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+27!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+84!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+190!my automation +1345897636927!0.4625!!!!!car!1.5 - 1.6!TOKEN
+161!my automation +1345897224072!0.4625!!!!!car!1.5 - 1.6!TOKEN
+95!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+57!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+20!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+163!my automation +1345897230340!0.4625!!!!!car!1.5 - 1.6!TOKEN
+109!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+151!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+89!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+175!my automation +1345897371300!0.4625!!!!!car!1.5 - 1.6!TOKEN
+148!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+31!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+35!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+11!Maruti 1000!0.4625!!!!!car!1.5 - 1.6!SOMEJUNK
+78!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+93!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+106!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+nonwork_default!157!!!!!!!!
+157!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+65!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+29!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+138!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+114!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+58!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+153!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+15!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+81!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+137!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+60!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+101!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+73!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+76!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+86!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+62!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+67!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+165!my automation +1345897235797!0.4625!!!!!car!1.5 - 1.6!TOKEN
+139!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+129!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+17!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+2!walking!0!6!10!#AACCCC!!!!
+186!my automation +1345897608923!0.4625!!!!!car!1.5 - 1.6!TOKEN
+110!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+82!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+147!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+168!my automation +1345897266661!0.4625!!!!!car!1.5 - 1.6!TOKEN
+184!my automation +1345897546040!0.4625!!!!!car!1.5 - 1.6!TOKEN
+135!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+14!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+112!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+69!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+191!my automation +1345897697453!0.4625!!!!!car!1.5 - 1.6!TOKEN
+172!my automation +1345897356835!0.4625!!!!!car!1.5 - 1.6!TOKEN
+145!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+49!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+24!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+178!my automation +1345897385819!0.4625!!!!!car!1.5 - 1.6!TOKEN
+187!my automation +1345897617028!0.4625!!!!!car!1.5 - 1.6!TOKEN
+140!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+104!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+124!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+131!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+181!my automation +1345897493498!0.4625!!!!!car!1.5 - 1.6!TOKEN
+79!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+121!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+154!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+0!stationery!0!0!0!#BBBBBB!!!!
+23!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+96!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+126!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+159!my automation +1345897158682!0.4625!!!!!car!1.5 - 1.6!TOKEN
+160!my automation +1345897221313!0.4625!!!!!car!1.5 - 1.6!TOKEN
+47!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+176!my automation +1345897373439!0.4625!!!!!car!1.5 - 1.6!TOKEN
+8!VOlvo!0.5907!!!!!car!1.6 + !08ld12345
+98!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+37!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+43!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+117!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+5!train!0.0!2!7!EADBCC!!!!
+170!my automation +1345897344420!0.4625!!!!!car!1.5 - 1.6!TOKEN
+33!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+63!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+21!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+26!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+80!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+193!my automation +1345897728073!0.4625!!!!!car!1.5 - 1.6!TOKEN
+119!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+180!my automation +1345897485086!0.4625!!!!!car!1.5 - 1.6!TOKEN
+99!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+179!my automation +1345897458581!0.4625!!!!!car!1.5 - 1.6!TOKEN
+162!my automation +1345897230434!0.4625!!!!!car!1.5 - 1.6!TOKEN
+72!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+74!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+182!my automation +1345897493952!0.4625!!!!!car!1.5 - 1.6!TOKEN
+61!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+108!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+115!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+92!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+103!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+10!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+113!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+152!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+189!my automation +1345897637127!0.4625!!!!!car!1.5 - 1.6!TOKEN
+142!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+91!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+167!my automation +1345897248924!0.4625!!!!!car!1.5 - 1.6!TOKEN
+107!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+48!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+87!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+174!my automation +1345897369337!0.4625!!!!!car!1.5 - 1.6!TOKEN
+77!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+133!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+149!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+123!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+50!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+39!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+64!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+97!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+41!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+52!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+173!my automation +1345897362561!0.4625!!!!!car!1.5 - 1.6!TOKEN
+56!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+45!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+66!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+19!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+54!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+70!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+68!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+188!my automation +1345897633238!0.4625!!!!!car!1.5 - 1.6!TOKEN
+work_default!193!!!!!!!!
+166!my automation +1345897242855!0.4625!!!!!car!1.5 - 1.6!TOKEN
+1!unknown!0.0!5!5!#AACCBB!!!!
+88!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+136!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+116!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+141!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+30!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+144!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+100!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+25!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+128!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+120!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+28!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+40!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+134!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+83!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+156!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+75!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+192!my automation +1345897699028!0.4625!!!!!car!1.5 - 1.6!TOKEN
+59!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+177!my automation +1345897380594!0.4625!!!!!car!1.5 - 1.6!TOKEN
+150!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+155!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+130!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+53!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+122!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+143!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+42!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+22!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+158!my automation!0.4625!!!!!car!1.5 - 1.6!TOKEN
+46!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+13!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+105!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+6!plane!0.0!2!1!FFDBCC!!!!
+85!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+185!my automation +1345897551590!0.4625!!!!!car!1.5 - 1.6!TOKEN
+36!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+3!cycling!0!7!10!#AACCAA!!!!
+183!my automation +1345897496679!0.4625!!!!!car!1.5 - 1.6!TOKEN
+94!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+111!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+51!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+146!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+38!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+4!DART!0.0!2!7!EADBFF!!!!
+34!Maruti 800!0.3912!!!!!car! - 1.2!SOMEJUNK
+169!my automation +1345897278264!0.4625!!!!!car!1.5 - 1.6!TOKEN
+132!Maruti 1000!0.5907!!!!!car!${car_size}!${car_regid}
+164!my automation +1345897230814!0.4625!!!!!car!1.5 - 1.6!TOKEN
+171!my automation +1345897352291!0.4625!!!!!car!1.5 - 1.6!TOKEN

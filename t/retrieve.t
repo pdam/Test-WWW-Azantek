@@ -1,6 +1,5 @@
 #!/usr/bin/perl -w
 
-# $Id: retrieve.t 6983 2010-02-20 20:14:51Z jonasbn $
 
 use strict;
 use warnings;
