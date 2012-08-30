@@ -1,0 +1,11 @@
+6!plane!0.0!2!1!FFDBCC!!!!
+11!New Car2!0.3912!!!!!car! - 1.2!12D12345
+3!cycling!0!7!10!#AACCAA!!!!
+2!walking!0!6!10!#AACCCC!!!!
+8!VOlvo!0.5907!!!!!car!1.6 + !08ld12345
+work_default!11!!!!!!!!
+4!DART!0.0!2!7!EADBFF!!!!
+1!unknown!0.0!5!5!#AACCBB!!!!
+0!stationery!0!0!0!#BBBBBB!!!!
+10!New Car!0.4625!!!!!car!1.5 - 1.6!11D12345
+5!train!0.0!2!7!EADBCC!!!!

@@ -1,0 +1,84 @@
+33!39.46!-0.383!San Vicent Màrtir - Mestre Sosa!Calle de San Vicente Mártir, 171, 46007 Valencia, Spain!#EE33EE!
+32!39.088!-0.216!Playa de Tavernes de la Valldigna!Av de la Marina, 1-7, 46760 Tavernes de la Valldigna, Spain!#EE33EE!
+21!53.407!-6.274!Silloge!R104, Silloge, Co. Dublin, Ireland!#EE33EE!
+63!41.384!2.179!Via Laietana!Via Laietana-Pl de l'Àngel, 08003 Barcelona, Spain!#EE33EE!
+71!53.29!-6.173!Newtown Castlebyrn!72 Newtownpark Ave, Dublin, Co. Dublin, Ireland!#EE33EE!
+7!53.35!-6.26!Smithfield!166 Parnell St, Smithfield, Dublin 1, Ireland!#EE33EE!
+80!53.346!-6.266!Ormond Quay!13 Ormond Quay Lower, Dublin, Co. Dublin, Ireland!#EE33EE!
+26!41.335!2.041!Rda. Sant Ramon - Joventut!Ronda de Sant Ramon, 171, 08830 St Boi de Llobregat, Spain!#EE33EE!
+18!53.349!-6.265!Smithfield!24 Liffey Street Upper, Smithfield, Dublin 1, Ireland!#EE33EE!
+72!53.294!-6.166!Montpelier!1-15 Greenville Rd, Dublin, Co. Dublin, Ireland!#EE33EE!
+16!53.27!-6.22!Sandyford!Kilcross Square, Sandyford, Stillorgan, Co. Dublin, Ireland!#EE33EE!
+44!38.97!-0.18!Gandía!Plaça Parc de l'Estació, 1-2, 46701 Gandia, Spain!#EE33EE!
+55!53.348!-6.263!North City!107-109 Abbey Street Middle, Dublin, Co. Dublin, Ireland!#EE33EE!
+84!53.311!-6.2!Rock Rd. (St. Helen's Rd.)!4-6 Rock Rd, Dublin, Co. Dublin, Ireland!#EE33EE!
+74!53.348!-6.268!North City!9 Mary St, Dublin 1, Co. Dublin, Ireland!#EE33EE!
+27!39.09!-0.25!46760 Tavernes de la Valldigna!N-332, 46760 Tavernes de la Valldigna, Spain!#EE33EE!
+57!53.19!-6.12!Oldcourt!35 Giltspur Wood, Bray, Co. Wicklow, Ireland!#EE33EE!
+61!41.393!2.157!Balmes-Provença!Carrer del Rosselló, 198, 08008 Barcelona, Spain!#EE33EE!
+20!53.407!-6.275!Silloge!R104, Silloge, Co. Dublin, Ireland!#EE33EE!
+10!53.296!-6.168!Monkstown!11 Monkstown Rd, Monkstown, Stillorgan, Co. Dublin, Ireland!#EE33EE!
+31!39.094!-0.219!Playa de Tavernes de la Valldigna!Calle del Pintor Segrelles, 2, 46760 Tavernes de la Valldigna, Spain!#EE33EE!
+35!39.472!-0.377!46002 Valencia!Calle de San Vicente Mártir, 27, 46002 Valencia, Spain!#EE33EE!
+11!53.346!-6.263!Ranelagh!12 Temple Bar, Ranelagh, Dublin 2, Ireland!#EE33EE!
+78!53.29!-6.19!Carrysfort!2 Avoca Wood, Blackrock, Co. Dublin, Ireland!#EE33EE!
+48!53.35!-6.268!North City!12-52 Wolfe Tone St, Dublin, Co. Dublin, Ireland!#EE33EE!
+77!53.1!-8.33!Ballyglass!R353, Co. Galway, Ireland!#EE33EE!
+65!53.278!-6.209!Mulchanstown!3 Arkle Rd, Dublin, Co. Dublin, Ireland!#EE33EE!
+29!39.09!-0.24!46760 Tavernes de la Valldigna!CV-605, 46760 Tavernes de la Valldigna, Spain!#EE33EE!
+50!53.312!-6.201!Pembroke East!R118, Dublin, Co. Dublin, Ireland!#EE33EE!
+39!39.464!-0.348!46023 Valencia!Calle del Escultor Vicente Beltrán Grimal, 2, 46023 Valencia, Spain!#EE33EE!
+64!53.343!-6.239!Grand canal Dock!Grand Canal Bridge, Dublin, Co. Dublin, Ireland!#EE33EE!
+58!39.461!-0.381!46007 Valencia!Calle del Doctor Gil y Morte, 21, 46007 Valencia, Spain!#EE33EE!
+12!53.341!-6.261!Ranelagh!51 King St S, Ranelagh, Dublin 2, Ireland!#EE33EE!
+41!39.462!-0.349!46023 Valencia!Calle de la Roda, 6, 46023 Valencia, Spain!#EE33EE!
+15!53.27!-6.23!Sandyford!College Park Way, Sandyford, Stillorgan, Co. Dublin, Ireland!#EE33EE!
+52!53.3!-6.18!Newtown Blackrock!1-7 Eagle Hill, Dublin, Co. Dublin, Ireland!#EE33EE!
+81!53.35!-6.23!North Dock!N Wall Quay, North Inner City, Dublin, Co. Dublin, Ireland!#EE33EE!
+60!41.382!2.178!08002 Barcelona!Carrer d'Ataülf, 1-3, 08002 Barcelona, Spain!#EE33EE!
+56!53.35!-6.259!O' Connell St!4 Earl St N, Dublin, Co. Dublin, Ireland!#EE33EE!
+45!38.967!-0.181!46701 Gandia!Carrer Major, 30, 46701 Gandia, Spain!#EE33EE!
+73!53.349!-6.268!North City!10 Mary St, Dublin 1, Co. Dublin, Ireland!#EE33EE!
+66!53.297!-6.176!Rockfield!18-19 Brookfield Grove, Dublin, Co. Dublin, Ireland!#EE33EE!
+76!53.348!-6.269!North City!39-41 Capel St, Dublin 1, Co. Dublin, Ireland!#EE33EE!
+19!53.288!-6.139!Dun Laoghaire!57-63 Patrick St, Dun Laoghaire, Co. Dublin, Ireland!#EE33EE!
+62!41.395!2.162!08008 Barcelona!Carrer de Provença, 298, 08008 Barcelona, Spain!#EE33EE!
+54!53.349!-6.26!O'Connell St Lwr. (Easons )!O'Connell Street Upper, Dublin, Co. Dublin, Ireland!#EE33EE!
+67!53.296!-6.182!Blackrock!12-16 Carysfort Ave, Dublin, Co. Dublin, Ireland!#EE33EE!
+70!53.336!-6.232!Pembroke West!Shaws Ln, Dublin, Co. Dublin, Ireland!#EE33EE!
+68!53.349!-6.264!North City!6 Henry St, Dublin 1, Co. Dublin, Ireland!#EE33EE!
+2!53.35!-6.36!Palmerstown!Lucan Rd, Palmerstown, Co. Dublin, Ireland!#EE33EE!
+17!53.348!-6.265!Smithfield!25 Liffey Street Upper, Smithfield, Dublin 1, Ireland!#EE33EE!
+1!53.36!-6.362!Dublin 20!Lower Rd, Dublin 15, Ireland!#EE33EE!
+30!39.11!-0.23!46400 Cullera!Entrada Los Pilares, 46400 Cullera, Spain!#EE33EE!
+82!53.34!-6.24!Pembroke West!8 Barrow St, Dublin, Co. Dublin, Ireland!#EE33EE!
+25!41.304!2.078!Aeroport - "Terminal B"!Aeropuerto de Barcelona (BCN), Carretera del Prat de Llobregat, 08820 El Prat de Llobregat, Spain!#EE33EE!
+28!39.11!-0.24!46400 Cullera!CV-605, 46400 Cullera, Spain!#EE33EE!
+83!53.293!-6.165!Montpelier!13 Gleann Na Smol, Blackrock, Co. Dublin, Ireland!#EE33EE!
+75!53.35!-6.261!O'Connell St!5 Henry Pl, Dublin, Co. Dublin, Ireland!#EE33EE!
+40!39.463!-0.349!46023 Valencia!Calle de la Roda, 4-6, 46023 Valencia, Spain!#EE33EE!
+14!53.277!-6.219!Sandyford Industrial Estate!Blackthorn Rd, Sandyford Industrial Estate, Dublin 18, Ireland!#EE33EE!
+69!53.34!-6.26!St Stephen's Green!St Stephen's Green (East), Dublin, Co. Dublin, Ireland!#EE33EE!
+59!41.383!2.178!08002 Barcelona!Carrer de Jaume I, 11, 08002 Barcelona, Spain!#EE33EE!
+49!53.357!-6.258!Mountjoy Sq.!8 Mountjoy Square N, Dublin, Co. Dublin, Ireland!#EE33EE!
+24!53.423!-6.244!Dublin Airport!Dublin Airport (DUB), Swords Rd, Dublin Airport, Co. Dublin, Ireland!#EE33EE!
+53!53.349!-6.259!O'Connell St Lwr. (Easons )!Sackville Pl, Dublin, Co. Dublin, Ireland!#EE33EE!
+79!53.346!-6.265!Ormond Quay!20-24 Ormond Quay Lower, Dublin, Co. Dublin, Ireland!#EE33EE!
+42!39.466!-0.377!46007 Valencia!Calle de Alicante, 13, 46004 Valencia, Spain!#EE33EE!
+22!53.427!-6.239!Dublin Airport!Dublin Airport (DUB), Swords Rd, Dublin Airport, Co. Dublin, Ireland!#EE33EE!
+46!39.468!-0.381!Guillem de Castro - Sant Agustí!Calle de San Vicente Mártir, 88, 46007 Valencia, Spain!#EE33EE!
+23!53.427!-6.24!Dublin Airport!Dublin Airport (DUB), Swords Rd, Dublin Airport, Co. Dublin, Ireland!#EE33EE!
+13!53.283!-6.234!Dundrum!2-16 Dun Emer Rd, Dundrum, Dublin 16, Ireland!#EE33EE!
+6!53.349!-6.263!Smithfield!Hotel Yard, Smithfield, Dublin 1, Ireland!#EE33EE!
+3!53.339!-6.237!Ringsend!5-6 Barrow St, Ringsend, Dublin 4, Ireland!#EE33EE!
+36!39.469!-0.376!46002 Valencia!Calle de Ribera, 10, 46002 Valencia, Spain!#EE33EE!
+9!53.288!-6.168!Deansgrange!118-122 Rockford Park, Deansgrange, Stillorgan, Co. Dublin, Ireland!#EE33EE!
+51!53.31!-6.19!Intake!75 Rock Rd, Dublin, Co. Dublin, Ireland!#EE33EE!
+47!41.381!2.179!08002 Barcelona!Carrer d'Ataülf, 5-11, 08002 Barcelona, Spain!#EE33EE!
+38!39.463!-0.348!46023 Valencia!Calle del Escultor Vicente Beltrán Grimal, 2, 46023 Valencia, Spain!#EE33EE!
+8!53.28!-6.164!Deansgrange!25-32 Deansgrange Rd, Deansgrange, Stillorgan, Co. Dublin, Ireland!#EE33EE!
+4!53.299!-6.167!Seapoint!8 Ardenza Terrace, Monkstown, Stillorgan, Co. Dublin, Ireland!#EE33EE!
+34!39.46!-0.382!46007 Valencia!Calle de San Vicente Mártir, 163, 46007 Valencia, Spain!#EE33EE!
+37!39.468!-0.376!46002 Valencia!Calle de Ribera, 10, 46002 Valencia, Spain!#EE33EE!
+43!39.103!-0.223!Playa de Tavernes de la Valldigna!Calle del Camino de la Goleta, 35-A, 46760 Tavernes de la Valldigna, Spain!#EE33EE!
+5!53.35!-6.262!O'Connell St!5-8 Moore St, Smithfield, Dublin 1, Ireland!#EE33EE!
